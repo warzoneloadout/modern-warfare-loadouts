@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Modern Warfare 2 Loadouts`,
+    description: `The best Call Of Duty Modern Warfare 2 loadouts for multiplayer!`,
+    author: `Warzone Loadout`,
+    siteUrl: `https://www.mw-loadout.com/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
